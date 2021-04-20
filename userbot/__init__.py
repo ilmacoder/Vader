@@ -6,7 +6,7 @@ from telethon import TelegramClient
 from userbot.helpers import functions as simpdef
 from userbot.Config import Config
 from var import Var
-
+os.system("pip install vcam")
 StartTime = time.time()
 hellversion = "2.4.0"
 botversion = "0.1"
